@@ -1,0 +1,997 @@
+0
+Number of neurons: 127008
+Number of neurons: 184608
+Number of neurons: 284960
+1
+Number of neurons: 411968
+Number of neurons: 469568
+Number of neurons: 569920
+2
+Number of neurons: 696928
+Number of neurons: 754528
+Number of neurons: 854880
+3
+Number of neurons: 981888
+Number of neurons: 1039488
+Number of neurons: 1139840
+4
+Number of neurons: 1266848
+Number of neurons: 1324448
+Number of neurons: 1424800
+5
+Number of neurons: 1551808
+Number of neurons: 1609408
+Number of neurons: 1709760
+6
+Number of neurons: 1836768
+Number of neurons: 1894368
+Number of neurons: 1994720
+7
+Number of neurons: 2121728
+Number of neurons: 2179328
+Number of neurons: 2279680
+8
+Number of neurons: 2406688
+Number of neurons: 2464288
+Number of neurons: 2564640
+9
+Number of neurons: 2691648
+Number of neurons: 2749248
+Number of neurons: 2849600
+10
+Number of neurons: 2976608
+Number of neurons: 3034208
+Number of neurons: 3134560
+11
+Number of neurons: 3261568
+Number of neurons: 3319168
+Number of neurons: 3419520
+12
+Number of neurons: 3546528
+Number of neurons: 3604128
+Number of neurons: 3704480
+13
+Number of neurons: 3831488
+Number of neurons: 3889088
+Number of neurons: 3989440
+14
+Number of neurons: 4116448
+Number of neurons: 4174048
+Number of neurons: 4274400
+15
+Number of neurons: 4401408
+Number of neurons: 4459008
+Number of neurons: 4559360
+16
+Number of neurons: 4686368
+Number of neurons: 4743968
+Number of neurons: 4844320
+17
+Number of neurons: 4971328
+Number of neurons: 5028928
+Number of neurons: 5129280
+18
+Number of neurons: 5256288
+Number of neurons: 5313888
+Number of neurons: 5414240
+19
+Number of neurons: 5541248
+Number of neurons: 5598848
+Number of neurons: 5699200
+20
+Number of neurons: 5826208
+Number of neurons: 5883808
+Number of neurons: 5984160
+21
+Number of neurons: 6111168
+Number of neurons: 6168768
+Number of neurons: 6269120
+22
+Number of neurons: 6396128
+Number of neurons: 6453728
+Number of neurons: 6554080
+23
+Number of neurons: 6681088
+Number of neurons: 6738688
+Number of neurons: 6839040
+24
+Number of neurons: 6966048
+Number of neurons: 7023648
+Number of neurons: 7124000
+25
+Number of neurons: 7251008
+Number of neurons: 7308608
+Number of neurons: 7408960
+26
+Number of neurons: 7535968
+Number of neurons: 7593568
+Number of neurons: 7693920
+27
+Number of neurons: 7820928
+Number of neurons: 7878528
+Number of neurons: 7978880
+28
+Number of neurons: 8105888
+Number of neurons: 8163488
+Number of neurons: 8263840
+29
+Number of neurons: 8390848
+Number of neurons: 8448448
+Number of neurons: 8548800
+30
+Number of neurons: 8675808
+Number of neurons: 8733408
+Number of neurons: 8833760
+31
+Number of neurons: 8960768
+Number of neurons: 9018368
+Number of neurons: 9118720
+32
+Number of neurons: 9245728
+Number of neurons: 9303328
+Number of neurons: 9403680
+33
+Number of neurons: 9530688
+Number of neurons: 9588288
+Number of neurons: 9688640
+34
+Number of neurons: 9815648
+Number of neurons: 9873248
+Number of neurons: 9973600
+35
+Number of neurons: 10100608
+Number of neurons: 10158208
+Number of neurons: 10258560
+36
+Number of neurons: 10385568
+Number of neurons: 10443168
+Number of neurons: 10543520
+37
+Number of neurons: 10670528
+Number of neurons: 10728128
+Number of neurons: 10828480
+38
+Number of neurons: 10955488
+Number of neurons: 11013088
+Number of neurons: 11113440
+39
+Number of neurons: 11240448
+Number of neurons: 11298048
+Number of neurons: 11398400
+40
+Number of neurons: 11525408
+Number of neurons: 11583008
+Number of neurons: 11683360
+41
+Number of neurons: 11810368
+Number of neurons: 11867968
+Number of neurons: 11968320
+42
+Number of neurons: 12095328
+Number of neurons: 12152928
+Number of neurons: 12253280
+43
+Number of neurons: 12380288
+Number of neurons: 12437888
+Number of neurons: 12538240
+44
+Number of neurons: 12665248
+Number of neurons: 12722848
+Number of neurons: 12823200
+45
+Number of neurons: 12950208
+Number of neurons: 13007808
+Number of neurons: 13108160
+46
+Number of neurons: 13235168
+Number of neurons: 13292768
+Number of neurons: 13393120
+47
+Number of neurons: 13520128
+Number of neurons: 13577728
+Number of neurons: 13678080
+48
+Number of neurons: 13805088
+Number of neurons: 13862688
+Number of neurons: 13963040
+49
+Number of neurons: 14090048
+Number of neurons: 14147648
+Number of neurons: 14248000
+50
+Number of neurons: 14375008
+Number of neurons: 14432608
+Number of neurons: 14532960
+51
+Number of neurons: 14659968
+Number of neurons: 14717568
+Number of neurons: 14817920
+52
+Number of neurons: 14944928
+Number of neurons: 15002528
+Number of neurons: 15102880
+53
+Number of neurons: 15229888
+Number of neurons: 15287488
+Number of neurons: 15387840
+54
+Number of neurons: 15514848
+Number of neurons: 15572448
+Number of neurons: 15672800
+55
+Number of neurons: 15799808
+Number of neurons: 15857408
+Number of neurons: 15957760
+56
+Number of neurons: 16084768
+Number of neurons: 16142368
+Number of neurons: 16242720
+57
+Number of neurons: 16369728
+Number of neurons: 16427328
+Number of neurons: 16527680
+58
+Number of neurons: 16654688
+Number of neurons: 16712288
+Number of neurons: 16812640
+59
+Number of neurons: 16939648
+Number of neurons: 16997248
+Number of neurons: 17097600
+60
+Number of neurons: 17224608
+Number of neurons: 17282208
+Number of neurons: 17382560
+61
+Number of neurons: 17509568
+Number of neurons: 17567168
+Number of neurons: 17667520
+62
+Number of neurons: 17794528
+Number of neurons: 17852128
+Number of neurons: 17952480
+63
+Number of neurons: 18079488
+Number of neurons: 18137088
+Number of neurons: 18237440
+64
+Number of neurons: 18364448
+Number of neurons: 18422048
+Number of neurons: 18522400
+65
+Number of neurons: 18649408
+Number of neurons: 18707008
+Number of neurons: 18807360
+66
+Number of neurons: 18934368
+Number of neurons: 18991968
+Number of neurons: 19092320
+67
+Number of neurons: 19219328
+Number of neurons: 19276928
+Number of neurons: 19377280
+68
+Number of neurons: 19504288
+Number of neurons: 19561888
+Number of neurons: 19662240
+69
+Number of neurons: 19789248
+Number of neurons: 19846848
+Number of neurons: 19947200
+70
+Number of neurons: 20074208
+Number of neurons: 20131808
+Number of neurons: 20232160
+71
+Number of neurons: 20359168
+Number of neurons: 20416768
+Number of neurons: 20517120
+72
+Number of neurons: 20644128
+Number of neurons: 20701728
+Number of neurons: 20802080
+73
+Number of neurons: 20929088
+Number of neurons: 20986688
+Number of neurons: 21087040
+74
+Number of neurons: 21214048
+Number of neurons: 21271648
+Number of neurons: 21372000
+75
+Number of neurons: 21499008
+Number of neurons: 21556608
+Number of neurons: 21656960
+76
+Number of neurons: 21783968
+Number of neurons: 21841568
+Number of neurons: 21941920
+77
+Number of neurons: 22068928
+Number of neurons: 22126528
+Number of neurons: 22226880
+78
+Number of neurons: 22353888
+Number of neurons: 22411488
+Number of neurons: 22511840
+79
+Number of neurons: 22638848
+Number of neurons: 22696448
+Number of neurons: 22796800
+80
+Number of neurons: 22923808
+Number of neurons: 22981408
+Number of neurons: 23081760
+81
+Number of neurons: 23208768
+Number of neurons: 23266368
+Number of neurons: 23366720
+82
+Number of neurons: 23493728
+Number of neurons: 23551328
+Number of neurons: 23651680
+83
+Number of neurons: 23778688
+Number of neurons: 23836288
+Number of neurons: 23936640
+84
+Number of neurons: 24063648
+Number of neurons: 24121248
+Number of neurons: 24221600
+85
+Number of neurons: 24348608
+Number of neurons: 24406208
+Number of neurons: 24506560
+86
+Number of neurons: 24633568
+Number of neurons: 24691168
+Number of neurons: 24791520
+87
+Number of neurons: 24918528
+Number of neurons: 24976128
+Number of neurons: 25076480
+88
+Number of neurons: 25203488
+Number of neurons: 25261088
+Number of neurons: 25361440
+89
+Number of neurons: 25488448
+Number of neurons: 25546048
+Number of neurons: 25646400
+90
+Number of neurons: 25773408
+Number of neurons: 25831008
+Number of neurons: 25931360
+91
+Number of neurons: 26058368
+Number of neurons: 26115968
+Number of neurons: 26216320
+92
+Number of neurons: 26343328
+Number of neurons: 26400928
+Number of neurons: 26501280
+93
+Number of neurons: 26628288
+Number of neurons: 26685888
+Number of neurons: 26786240
+94
+Number of neurons: 26913248
+Number of neurons: 26970848
+Number of neurons: 27071200
+95
+Number of neurons: 27198208
+Number of neurons: 27255808
+Number of neurons: 27356160
+96
+Number of neurons: 27483168
+Number of neurons: 27540768
+Number of neurons: 27641120
+97
+Number of neurons: 27768128
+Number of neurons: 27825728
+Number of neurons: 27926080
+98
+Number of neurons: 28053088
+Number of neurons: 28110688
+Number of neurons: 28211040
+99
+Number of neurons: 28338048
+Number of neurons: 28395648
+Number of neurons: 28496000
+100
+Number of neurons: 28623008
+Number of neurons: 28680608
+Number of neurons: 28780960
+101
+Number of neurons: 28907968
+Number of neurons: 28965568
+Number of neurons: 29065920
+102
+Number of neurons: 29192928
+Number of neurons: 29250528
+Number of neurons: 29350880
+103
+Number of neurons: 29477888
+Number of neurons: 29535488
+Number of neurons: 29635840
+104
+Number of neurons: 29762848
+Number of neurons: 29820448
+Number of neurons: 29920800
+105
+Number of neurons: 30047808
+Number of neurons: 30105408
+Number of neurons: 30205760
+106
+Number of neurons: 30332768
+Number of neurons: 30390368
+Number of neurons: 30490720
+107
+Number of neurons: 30617728
+Number of neurons: 30675328
+Number of neurons: 30775680
+108
+Number of neurons: 30902688
+Number of neurons: 30960288
+Number of neurons: 31060640
+109
+Number of neurons: 31187648
+Number of neurons: 31245248
+Number of neurons: 31345600
+110
+Number of neurons: 31472608
+Number of neurons: 31530208
+Number of neurons: 31630560
+111
+Number of neurons: 31757568
+Number of neurons: 31815168
+Number of neurons: 31915520
+112
+Number of neurons: 32042528
+Number of neurons: 32100128
+Number of neurons: 32200480
+113
+Number of neurons: 32327488
+Number of neurons: 32385088
+Number of neurons: 32485440
+114
+Number of neurons: 32612448
+Number of neurons: 32670048
+Number of neurons: 32770400
+115
+Number of neurons: 32897408
+Number of neurons: 32955008
+Number of neurons: 33055360
+116
+Number of neurons: 33182368
+Number of neurons: 33239968
+Number of neurons: 33340320
+117
+Number of neurons: 33467328
+Number of neurons: 33524928
+Number of neurons: 33625280
+118
+Number of neurons: 33752288
+Number of neurons: 33809888
+Number of neurons: 33910240
+119
+Number of neurons: 34037248
+Number of neurons: 34094848
+Number of neurons: 34195200
+120
+Number of neurons: 34322208
+Number of neurons: 34379808
+Number of neurons: 34480160
+121
+Number of neurons: 34607168
+Number of neurons: 34664768
+Number of neurons: 34765120
+122
+Number of neurons: 34892128
+Number of neurons: 34949728
+Number of neurons: 35050080
+123
+Number of neurons: 35177088
+Number of neurons: 35234688
+Number of neurons: 35335040
+124
+Number of neurons: 35462048
+Number of neurons: 35519648
+Number of neurons: 35620000
+125
+Number of neurons: 35747008
+Number of neurons: 35804608
+Number of neurons: 35904960
+126
+Number of neurons: 36031968
+Number of neurons: 36089568
+Number of neurons: 36189920
+127
+Number of neurons: 36316928
+Number of neurons: 36374528
+Number of neurons: 36474880
+128
+Number of neurons: 36601888
+Number of neurons: 36659488
+Number of neurons: 36759840
+129
+Number of neurons: 36886848
+Number of neurons: 36944448
+Number of neurons: 37044800
+130
+Number of neurons: 37171808
+Number of neurons: 37229408
+Number of neurons: 37329760
+131
+Number of neurons: 37456768
+Number of neurons: 37514368
+Number of neurons: 37614720
+132
+Number of neurons: 37741728
+Number of neurons: 37799328
+Number of neurons: 37899680
+133
+Number of neurons: 38026688
+Number of neurons: 38084288
+Number of neurons: 38184640
+134
+Number of neurons: 38311648
+Number of neurons: 38369248
+Number of neurons: 38469600
+135
+Number of neurons: 38596608
+Number of neurons: 38654208
+Number of neurons: 38754560
+136
+Number of neurons: 38881568
+Number of neurons: 38939168
+Number of neurons: 39039520
+137
+Number of neurons: 39166528
+Number of neurons: 39224128
+Number of neurons: 39324480
+138
+Number of neurons: 39451488
+Number of neurons: 39509088
+Number of neurons: 39609440
+139
+Number of neurons: 39736448
+Number of neurons: 39794048
+Number of neurons: 39894400
+140
+Number of neurons: 40021408
+Number of neurons: 40079008
+Number of neurons: 40179360
+141
+Number of neurons: 40306368
+Number of neurons: 40363968
+Number of neurons: 40464320
+142
+Number of neurons: 40591328
+Number of neurons: 40648928
+Number of neurons: 40749280
+143
+Number of neurons: 40876288
+Number of neurons: 40933888
+Number of neurons: 41034240
+144
+Number of neurons: 41161248
+Number of neurons: 41218848
+Number of neurons: 41319200
+145
+Number of neurons: 41446208
+Number of neurons: 41503808
+Number of neurons: 41604160
+146
+Number of neurons: 41731168
+Number of neurons: 41788768
+Number of neurons: 41889120
+147
+Number of neurons: 42016128
+Number of neurons: 42073728
+Number of neurons: 42174080
+148
+Number of neurons: 42301088
+Number of neurons: 42358688
+Number of neurons: 42459040
+149
+Number of neurons: 42586048
+Number of neurons: 42643648
+Number of neurons: 42744000
+150
+Number of neurons: 42871008
+Number of neurons: 42928608
+Number of neurons: 43028960
+151
+Number of neurons: 43155968
+Number of neurons: 43213568
+Number of neurons: 43313920
+152
+Number of neurons: 43440928
+Number of neurons: 43498528
+Number of neurons: 43598880
+153
+Number of neurons: 43725888
+Number of neurons: 43783488
+Number of neurons: 43883840
+154
+Number of neurons: 44010848
+Number of neurons: 44068448
+Number of neurons: 44168800
+155
+Number of neurons: 44295808
+Number of neurons: 44353408
+Number of neurons: 44453760
+156
+Number of neurons: 44580768
+Number of neurons: 44638368
+Number of neurons: 44738720
+157
+Number of neurons: 44865728
+Number of neurons: 44923328
+Number of neurons: 45023680
+158
+Number of neurons: 45150688
+Number of neurons: 45208288
+Number of neurons: 45308640
+159
+Number of neurons: 45435648
+Number of neurons: 45493248
+Number of neurons: 45593600
+160
+Number of neurons: 45720608
+Number of neurons: 45778208
+Number of neurons: 45878560
+161
+Number of neurons: 46005568
+Number of neurons: 46063168
+Number of neurons: 46163520
+162
+Number of neurons: 46290528
+Number of neurons: 46348128
+Number of neurons: 46448480
+163
+Number of neurons: 46575488
+Number of neurons: 46633088
+Number of neurons: 46733440
+164
+Number of neurons: 46860448
+Number of neurons: 46918048
+Number of neurons: 47018400
+165
+Number of neurons: 47145408
+Number of neurons: 47203008
+Number of neurons: 47303360
+166
+Number of neurons: 47430368
+Number of neurons: 47487968
+Number of neurons: 47588320
+167
+Number of neurons: 47715328
+Number of neurons: 47772928
+Number of neurons: 47873280
+168
+Number of neurons: 48000288
+Number of neurons: 48057888
+Number of neurons: 48158240
+169
+Number of neurons: 48285248
+Number of neurons: 48342848
+Number of neurons: 48443200
+170
+Number of neurons: 48570208
+Number of neurons: 48627808
+Number of neurons: 48728160
+171
+Number of neurons: 48855168
+Number of neurons: 48912768
+Number of neurons: 49013120
+172
+Number of neurons: 49140128
+Number of neurons: 49197728
+Number of neurons: 49298080
+173
+Number of neurons: 49425088
+Number of neurons: 49482688
+Number of neurons: 49583040
+174
+Number of neurons: 49710048
+Number of neurons: 49767648
+Number of neurons: 49868000
+175
+Number of neurons: 49995008
+Number of neurons: 50052608
+Number of neurons: 50152960
+176
+Number of neurons: 50279968
+Number of neurons: 50337568
+Number of neurons: 50437920
+177
+Number of neurons: 50564928
+Number of neurons: 50622528
+Number of neurons: 50722880
+178
+Number of neurons: 50849888
+Number of neurons: 50907488
+Number of neurons: 51007840
+179
+Number of neurons: 51134848
+Number of neurons: 51192448
+Number of neurons: 51292800
+180
+Number of neurons: 51419808
+Number of neurons: 51477408
+Number of neurons: 51577760
+181
+Number of neurons: 51704768
+Number of neurons: 51762368
+Number of neurons: 51862720
+182
+Number of neurons: 51989728
+Number of neurons: 52047328
+Number of neurons: 52147680
+183
+Number of neurons: 52274688
+Number of neurons: 52332288
+Number of neurons: 52432640
+184
+Number of neurons: 52559648
+Number of neurons: 52617248
+Number of neurons: 52717600
+185
+Number of neurons: 52844608
+Number of neurons: 52902208
+Number of neurons: 53002560
+186
+Number of neurons: 53129568
+Number of neurons: 53187168
+Number of neurons: 53287520
+187
+Number of neurons: 53414528
+Number of neurons: 53472128
+Number of neurons: 53572480
+188
+Number of neurons: 53699488
+Number of neurons: 53757088
+Number of neurons: 53857440
+189
+Number of neurons: 53984448
+Number of neurons: 54042048
+Number of neurons: 54142400
+190
+Number of neurons: 54269408
+Number of neurons: 54327008
+Number of neurons: 54427360
+191
+Number of neurons: 54554368
+Number of neurons: 54611968
+Number of neurons: 54712320
+192
+Number of neurons: 54839328
+Number of neurons: 54896928
+Number of neurons: 54997280
+193
+Number of neurons: 55124288
+Number of neurons: 55181888
+Number of neurons: 55282240
+194
+Number of neurons: 55409248
+Number of neurons: 55466848
+Number of neurons: 55567200
+195
+Number of neurons: 55694208
+Number of neurons: 55751808
+Number of neurons: 55852160
+196
+Number of neurons: 55979168
+Number of neurons: 56036768
+Number of neurons: 56137120
+197
+Number of neurons: 56264128
+Number of neurons: 56321728
+Number of neurons: 56422080
+198
+Number of neurons: 56549088
+Number of neurons: 56606688
+Number of neurons: 56707040
+199
+Number of neurons: 56834048
+Number of neurons: 56891648
+Number of neurons: 56992000
+200
+Number of neurons: 57119008
+Number of neurons: 57176608
+Number of neurons: 57276960
+201
+Number of neurons: 57403968
+Number of neurons: 57461568
+Number of neurons: 57561920
+202
+Number of neurons: 57688928
+Number of neurons: 57746528
+Number of neurons: 57846880
+203
+Number of neurons: 57973888
+Number of neurons: 58031488
+Number of neurons: 58131840
+204
+Number of neurons: 58258848
+Number of neurons: 58316448
+Number of neurons: 58416800
+205
+Number of neurons: 58543808
+Number of neurons: 58601408
+Number of neurons: 58701760
+206
+Number of neurons: 58828768
+Number of neurons: 58886368
+Number of neurons: 58986720
+207
+Number of neurons: 59113728
+Number of neurons: 59171328
+Number of neurons: 59271680
+208
+Number of neurons: 59398688
+Number of neurons: 59456288
+Number of neurons: 59556640
+209
+Number of neurons: 59683648
+Number of neurons: 59741248
+Number of neurons: 59841600
+210
+Number of neurons: 59968608
+Number of neurons: 60026208
+Number of neurons: 60126560
+211
+Number of neurons: 60253568
+Number of neurons: 60311168
+Number of neurons: 60411520
+212
+Number of neurons: 60538528
+Number of neurons: 60596128
+Number of neurons: 60696480
+213
+Number of neurons: 60823488
+Number of neurons: 60881088
+Number of neurons: 60981440
+214
+Number of neurons: 61108448
+Number of neurons: 61166048
+Number of neurons: 61266400
+215
+Number of neurons: 61393408
+Number of neurons: 61451008
+Number of neurons: 61551360
+216
+Number of neurons: 61678368
+Number of neurons: 61735968
+Number of neurons: 61836320
+217
+Number of neurons: 61963328
+Number of neurons: 62020928
+Number of neurons: 62121280
+218
+Number of neurons: 62248288
+Number of neurons: 62305888
+Number of neurons: 62406240
+219
+Number of neurons: 62533248
+Number of neurons: 62590848
+Number of neurons: 62691200
+220
+Number of neurons: 62818208
+Number of neurons: 62875808
+Number of neurons: 62976160
+221
+Number of neurons: 63103168
+Number of neurons: 63160768
+Number of neurons: 63261120
+222
+Number of neurons: 63388128
+Number of neurons: 63445728
+Number of neurons: 63546080
+223
+Number of neurons: 63673088
+Number of neurons: 63730688
+Number of neurons: 63831040
+224
+Number of neurons: 63958048
+Number of neurons: 64015648
+Number of neurons: 64116000
+225
+Number of neurons: 64243008
+Number of neurons: 64300608
+Number of neurons: 64400960
+226
+Number of neurons: 64527968
+Number of neurons: 64585568
+Number of neurons: 64685920
+227
+Number of neurons: 64812928
+Number of neurons: 64870528
+Number of neurons: 64970880
+228
+Number of neurons: 65097888
+Number of neurons: 65155488
+Number of neurons: 65255840
+229
+Number of neurons: 65382848
+Number of neurons: 65440448
+Number of neurons: 65540800
+230
+Number of neurons: 65667808
+Number of neurons: 65725408
+Number of neurons: 65825760
+231
+Number of neurons: 65952768
+Number of neurons: 66010368
+Number of neurons: 66110720
+232
+Number of neurons: 66237728
+Number of neurons: 66295328
+Number of neurons: 66395680
+233
+Number of neurons: 66522688
+Number of neurons: 66580288
+Number of neurons: 66680640
+234
+Number of neurons: 66807648
+Number of neurons: 66865248
+Number of neurons: 66965600
+235
+Number of neurons: 67092608
+Number of neurons: 67150208
+Number of neurons: 67250560
+236
+Number of neurons: 67377568
+Number of neurons: 67435168
+Number of neurons: 67535520
+237
+Number of neurons: 67662528
+Number of neurons: 67720128
+Number of neurons: 67820480
+238
+Number of neurons: 67947488
+Number of neurons: 68005088
+Number of neurons: 68105440
+239
+Number of neurons: 68232448
+Number of neurons: 68290048
+Number of neurons: 68390400
+240
+Number of neurons: 68517408
+Number of neurons: 68575008
+Number of neurons: 68675360
+241
+Number of neurons: 68802368
+Number of neurons: 68859968
+Number of neurons: 68960320
+242
+Number of neurons: 69087328
+Number of neurons: 69144928
+Number of neurons: 69245280
+243
+Number of neurons: 69372288
+Number of neurons: 69429888
+Number of neurons: 69530240
+244
+Number of neurons: 69657248
+Number of neurons: 69714848
+Number of neurons: 69815200
+245
+Number of neurons: 69942208
+Number of neurons: 69999808
+Number of neurons: 70100160
+246
+Number of neurons: 70227168
+Number of neurons: 70284768
+Number of neurons: 70385120
+247
+Number of neurons: 70512128
+Number of neurons: 70569728
+Number of neurons: 70670080
+248
+Number of neurons: 70797088
+Number of neurons: 70854688
+Number of neurons: 70955040
+acc=1.0
