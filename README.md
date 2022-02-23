@@ -28,9 +28,10 @@
 
 ## Dataset
 `20 healthy individuals and 20 depressed patients, 128-channel continuous EEG signals in resting state, sampling rate 250Hz` <br>
-        Preprocessing:
-        Filter → remove distractions(EMG、EOG, etc.) → Re-interpolate the removed bad derivatives → re-reference 
-        → subspace reconstruction：Remove high energy components → Calculate inter-channel connection strength
+
+    Preprocessing:
+    Filter → remove distractions(EMG、EOG, etc.) → Re-interpolate the removed bad derivatives → re-reference 
+    → subspace reconstruction：Remove high energy components → Calculate inter-channel connection strength
     
 
 ## Modeling
