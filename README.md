@@ -32,7 +32,102 @@
     Preprocessing:
     Filter → remove distractions(EMG、EOG, etc.) → Re-interpolate the removed bad derivatives → re-reference 
     → subspace reconstruction：Remove high energy components → Calculate inter-channel connection strength
-    
+
+<table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0
+ style='border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=276 valign=top style='width:207.25pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:Ayuthaya'>rhythm<o:p></o:p></span></p>
+  </td>
+  <td width=276 valign=top style='width:207.25pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:Ayuthaya'>band<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1'>
+  <td width=276 valign=top style='width:207.25pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:"Cambria",serif;
+  mso-bidi-font-family:Cambria'>δ</span><span lang=EN-US style='font-size:12.0pt;
+  font-family:Ayuthaya'> rhythm<o:p></o:p></span></p>
+  </td>
+  <td width=276 valign=top style='width:207.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:Ayuthaya'>1-3
+  Hz<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2'>
+  <td width=276 valign=top style='width:207.25pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:"Cambria",serif;
+  mso-bidi-font-family:Cambria'>θ</span><span lang=EN-US style='font-size:12.0pt;
+  font-family:Ayuthaya'> rhythm<o:p></o:p></span></p>
+  </td>
+  <td width=276 valign=top style='width:207.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:Ayuthaya'>4-7
+  Hz<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:3'>
+  <td width=276 valign=top style='width:207.25pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:"Cambria",serif;
+  mso-bidi-font-family:Cambria'>α</span><span lang=EN-US style='font-size:12.0pt;
+  font-family:Ayuthaya'> rhythm<o:p></o:p></span></p>
+  </td>
+  <td width=276 valign=top style='width:207.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:Ayuthaya'>8-13
+  Hz<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:4'>
+  <td width=276 valign=top style='width:207.25pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:"Cambria",serif;
+  mso-bidi-font-family:Cambria'>β</span><span lang=EN-US style='font-size:12.0pt;
+  font-family:Ayuthaya'> rhythm<o:p></o:p></span></p>
+  </td>
+  <td width=276 valign=top style='width:207.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:Ayuthaya'>14-30
+  Hz<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:5;mso-yfti-lastrow:yes'>
+  <td width=276 valign=top style='width:207.25pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:"Cambria",serif;
+  mso-bidi-font-family:Cambria'>γ</span><span lang=EN-US style='font-size:12.0pt;
+  font-family:Ayuthaya'> rhythm<o:p></o:p></span></p>
+  </td>
+  <td width=276 valign=top style='width:207.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:Ayuthaya'>40-100
+  Hz<o:p></o:p></span></p>
+  </td>
+ </tr>
+</table>
 
 ## Modeling
 
