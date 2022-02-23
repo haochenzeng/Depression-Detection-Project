@@ -1,6 +1,6 @@
 # FS(Few-Spikes model Application)
+`SNN` `EEG` `Depression detection` <br>
 `A graduation project of an undergraduate from HUST` <br>
-`SNN` `EEG` `Depression detection`
 ## Background
     Depression
       A global mental illness with unknown pathogenesis and heterogeneous in nature → Achieving accurate and early diagnosis 
