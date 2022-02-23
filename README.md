@@ -18,7 +18,13 @@
       positive diagnosis. Statistics show that general practitioners can only correctly identify 47.3% of patients, and there 
       is a large proportion of missed and misdiagnosed patients.
 
-`The detetion based on deep learning:`
+`The detetion based on deep learning:` <br>
+```diff
+  1. Modelable: Auxiliary Diagnosis of Depression → Quantitative Depression Status Assessment
+  2. More acurrate: Eliminate the influence of subjective factors of doctors and patients in the diagnosis process, and 
+  improve the accuracy of diagnosis
+  3. Explainable: Depression cues are extracted from speech, facial expressions, fMRI images, EEG signals, eye movements, etc.
+```
 
 ## Dataset
 
