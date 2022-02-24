@@ -129,6 +129,13 @@
  </tr>
 </table>
 
+    Calculating the PLV(Phase Locking Vector):
+    PLV measures the connectivity between two channels([0,1])
+    The closer it is to 1, the stronger the synchronization between the two regions.
+    The closer it is to 0, the stronger the mutual independence of the two regions.
+    Then get 128x128 data of EEG
+    
+
 ## Modeling
 
 ### Few-Spikes model
