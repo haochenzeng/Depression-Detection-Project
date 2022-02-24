@@ -152,12 +152,15 @@
 The CNN to SNN converting based on [FS converting](https://github.com/christophstoeckl/FS-neurons)
 
     The test of the FS model:
-`CIFAR10` `ResNet18`
+`MNIST` `ResNet18`
 
     Use the pretrained model: load /checkpoints/resnet18_Cifar10_2.pth:
     Run in the Terminal:
-    ```Bash
-    Python exp_resnet.py > 
-    ```
+```Bash
+Python exp_resnet.py > resnet_n_spikes.txt
+```
+    Run extract_spikes.py(n_neurons:39424, n_images:10000)
+    Average number of spikes: 1.0978724913758116
+    
     
 
