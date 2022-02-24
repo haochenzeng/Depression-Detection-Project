@@ -154,6 +154,10 @@ The CNN to SNN converting based on [FS converting](https://github.com/christophs
     The test of the FS model:
 `CIFAR10` `ResNet18`
 
-    run
+    Use the pretrained model: load /checkpoints/resnet18_Cifar10_2.pth:
+    Run in the Terminal:
+    ```Bash
+    Python exp_resnet.py > 
+    ```
     
 
