@@ -135,10 +135,15 @@
     The closer it is to 0, the stronger the mutual independence of the two regions.
     Then get 128x128 data of EEG
     
-
 ## Modeling
 
-### Few-Spikes model
+### Designed Convolutional Networks
+    5 layers of Convolutional Networks, CNN: see CNN5.py CNN5_2
+    
+        Train from scratch：
+          set the parameter use_pretrained_model = False
+        Use pretrained model:
+          load /checkpoints/CNN5_2_3.pth
 
 ******
-### Designed Convolutional Networks
+### Few-Spikes model
