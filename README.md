@@ -1,6 +1,6 @@
 # A Depression Detection Project based on FS(Few-Spikes model Application)
 `Python` `SNN` `EEG` `Depression detection` <br>
-`A graduation project of an undergraduate from HUST` <br>
+`A graduation project of an undergraduate from HUST`     <br>
 ## Background
     Depression
       A global mental illness with unknown pathogenesis and heterogeneous in nature → Achieving accurate and early diagnosis 
