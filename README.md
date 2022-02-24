@@ -1,5 +1,5 @@
-# FS(Few-Spikes model Application)
-`SNN` `EEG` `Depression detection` <br>
+# A Depression Detection Project based on FS(Few-Spikes model Application)
+`Python` `SNN` `EEG` `Depression detection` <br>
 `A graduation project of an undergraduate from HUST` <br>
 ## Background
     Depression
