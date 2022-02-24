@@ -144,6 +144,7 @@
           set the parameter use_pretrained_model = False
         Use pretrained model:
           load /checkpoints/CNN5_2_3.pth
+          the test accuracy achieves 99.6% |the train accuracy and val accuracy achieve 89.3% and 88.5%
 
 ******
 ### Few-Spikes model
