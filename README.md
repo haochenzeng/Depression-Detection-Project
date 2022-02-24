@@ -161,7 +161,24 @@ Python exp_resnet.py > resnet_n_spikes.txt
 ```
     Run extract_spikes.py(n_neurons:39424, n_images:10000) 39424 neurons see resnet_n_neurons.txt
     Average number of spikes: 1.0978724913758116
-    The test accuracy is 91.8%(before converting)/ 91.68%(after converting)
+    The test accuracy is 91.8%(before converting)/ 91.68%(after converting)   
+```
+FS model Applying in CNN5:
+```
+`EEG alpha band` `CNN5`
+
+    set fs_coding.py parameter print_spikes = True:
+    Run in the Terminal:
+```Bash
+Python exp.py > n_spikes.txt
+```
+    set fs_coding.py parameter print_spikes = True:
+    Run in the Terminal:
+```Bash
+Python exp.py > n_neurons.txt
+```
+
+
     
     
     
