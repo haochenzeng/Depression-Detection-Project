@@ -148,3 +148,6 @@
 
 ******
 ### Few-Spikes model
+
+The CNN to SNN converting based on [FS converting](https://github.com/christophstoeckl/FS-neurons)
+
