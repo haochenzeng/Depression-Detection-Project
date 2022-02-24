@@ -182,8 +182,7 @@ Python exp.py > n_neurons.txt
     The val accuracy is 88.5%(before converting)/ 88.28%(after converting)
     The test accuracy is 99.6%(before converting)/ 99.6%(after converting)
 
-
-    
-    
+## Statistical analysis
+    To be continued 😊
     
 
