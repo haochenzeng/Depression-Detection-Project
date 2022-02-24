@@ -151,3 +151,9 @@
 
 The CNN to SNN converting based on [FS converting](https://github.com/christophstoeckl/FS-neurons)
 
+    The test of the FS model:
+`CIFAR10` `ResNet18`
+
+    run
+    
+
