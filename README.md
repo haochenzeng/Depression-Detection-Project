@@ -177,6 +177,10 @@ Python exp.py > n_spikes.txt
 ```Bash
 Python exp.py > n_neurons.txt
 ```
+    Run extract_spikes.py(n_neurons:284960, n_images:7944)
+    Average number of spikes: 1.0257230
+    The val accuracy is 88.5%(before converting)/ 88.28%(after converting)
+    The test accuracy is 99.6%(before converting)/ 99.6%(after converting)
 
 
     
